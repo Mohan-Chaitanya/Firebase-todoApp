@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Firebase-todoApp/static/css/main.6614a4e2.chunk.css",
+    "main.js": "/Firebase-todoApp/static/js/main.582c4d58.chunk.js",
+    "main.js.map": "/Firebase-todoApp/static/js/main.582c4d58.chunk.js.map",
+    "runtime-main.js": "/Firebase-todoApp/static/js/runtime-main.c5deb925.js",
+    "runtime-main.js.map": "/Firebase-todoApp/static/js/runtime-main.c5deb925.js.map",
+    "static/js/2.26c9b5c1.chunk.js": "/Firebase-todoApp/static/js/2.26c9b5c1.chunk.js",
+    "static/js/2.26c9b5c1.chunk.js.map": "/Firebase-todoApp/static/js/2.26c9b5c1.chunk.js.map",
+    "static/js/3.96e17793.chunk.js": "/Firebase-todoApp/static/js/3.96e17793.chunk.js",
+    "static/js/3.96e17793.chunk.js.map": "/Firebase-todoApp/static/js/3.96e17793.chunk.js.map",
+    "index.html": "/Firebase-todoApp/index.html",
+    "static/css/main.6614a4e2.chunk.css.map": "/Firebase-todoApp/static/css/main.6614a4e2.chunk.css.map",
+    "static/js/2.26c9b5c1.chunk.js.LICENSE.txt": "/Firebase-todoApp/static/js/2.26c9b5c1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5deb925.js",
+    "static/js/2.26c9b5c1.chunk.js",
+    "static/css/main.6614a4e2.chunk.css",
+    "static/js/main.582c4d58.chunk.js"
+  ]
+}
